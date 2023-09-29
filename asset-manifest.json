@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe471b5f.css",
-    "main.js": "/static/js/main.f6b40128.js",
-    "static/js/787.7a5f4236.chunk.js": "/static/js/787.7a5f4236.chunk.js",
-    "index.html": "/index.html",
-    "main.fe471b5f.css.map": "/static/css/main.fe471b5f.css.map",
-    "main.f6b40128.js.map": "/static/js/main.f6b40128.js.map",
-    "787.7a5f4236.chunk.js.map": "/static/js/787.7a5f4236.chunk.js.map"
+    "main.css": "/jwks-validator/static/css/main.fe471b5f.css",
+    "main.js": "/jwks-validator/static/js/main.782a5b29.js",
+    "static/js/787.7a5f4236.chunk.js": "/jwks-validator/static/js/787.7a5f4236.chunk.js",
+    "index.html": "/jwks-validator/index.html",
+    "main.fe471b5f.css.map": "/jwks-validator/static/css/main.fe471b5f.css.map",
+    "main.782a5b29.js.map": "/jwks-validator/static/js/main.782a5b29.js.map",
+    "787.7a5f4236.chunk.js.map": "/jwks-validator/static/js/787.7a5f4236.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe471b5f.css",
-    "static/js/main.f6b40128.js"
+    "static/js/main.782a5b29.js"
   ]
 }
